@@ -1,0 +1,12 @@
+{
+  "name": "rxdb-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/OsirisFrik/rxdb-test",
+  "author": "osirisfrik <osiris.lpz96@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "spaces/*"
+  ]
+}
